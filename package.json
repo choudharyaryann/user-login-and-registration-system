@@ -2,9 +2,7 @@
   "name": "user-auth-app",
   "version": "1.0.0",
   "main": "server.js",
-  "scripts": { "scripts": {
-  "test": "mocha"
-}
+  "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
